@@ -236,7 +236,7 @@ font-weight: bold;
 .box0{
     position: absolute;
     left:30%;
-    top: 85px;
+    top:150px;
 }  
 .card,p0{
     width: 450px;
@@ -306,4 +306,19 @@ font-weight: bold;
 #Xmark{
    position: absolute;
    right: 20px;
+}
+.click2{
+    display: flex;
+     margin-top: 50px; 
+    justify-content: center;
+    gap: 20px;
+
+}
+.Taskclick1{
+    cursor: pointer;
+    
+}
+.taskclick2{
+    font-size: 20px;
+    
 }
